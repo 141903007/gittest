@@ -1,4 +1,4 @@
-#how to run?
+#how to run?  vishal jare chi edit file
 ANS: https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
 git config --global user.name "141903007"
 git config --global user.email "chandrakantjare6788@gmail.com"
